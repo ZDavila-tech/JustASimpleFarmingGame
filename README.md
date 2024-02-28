@@ -1,5 +1,5 @@
 # JustASimpleFarmingGame
-The Latest Installer of my Final Project for Full Sail Game Development Bachelor Degree
+The Latest Update of my Final Project for Full Sail Game Development Bachelor Degree
 
 To keep updated with the latest of the development in the game, you can follow the Just a Simple Farming Game page on itch.io.
 https://goldengoblins.itch.io/just-a-simple-farming-game
