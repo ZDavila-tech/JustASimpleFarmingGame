@@ -1,0 +1,4 @@
+# JustASimpleFarmingGame
+The Latest Installer of my Final Project for Full Sail Game Development Bachelor Degree
+
+This link is to the Google Drive folder that holds the most recent installer of the Game. When installing, Windows will pop up a message that the installer cannot be trusted. Please click on "More Info" and then "Run Anyway" to continue with the installation.
