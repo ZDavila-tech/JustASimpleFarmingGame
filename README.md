@@ -1,7 +1,7 @@
 # JustASimpleFarmingGame
 The Latest Update of my Final Project for Full Sail Game Development Bachelor Degree
 
-###Team Members
+### Team Members
 - Johnathan Coots
 - Zoleda Davila
 - Carlos Ocampo
@@ -9,7 +9,7 @@ The Latest Update of my Final Project for Full Sail Game Development Bachelor De
 - Chase Thacker
 - Trinity Sanders
 
-##My Role
+## My Role
 - Designed and programmed the UI throughout the game
 - Edited and added sound effects and background music through sound classes and mixers
 - Coded and designed menus and the menu system (Main Menu, Pause Menu, Settings Menu, Inventory Menu, etc.)
