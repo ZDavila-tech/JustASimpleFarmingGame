@@ -10,14 +10,11 @@ The Latest Update of my Final Project for Full Sail Game Development Bachelor De
 - Trinity Sanders
 
 ## My Role
-- Designed and programmed the UI throughout the game
-- Edited and added sound effects and background music through sound classes and mixers
-- Coded and designed menus and the menu system (Main Menu, Pause Menu, Settings Menu, Inventory Menu, etc.)
-- Programmed the inventory system in the game.
-- Programmed, edited, and created aniamtions of the Plant, Ore, and Tree enemies.
-- Created Credit Scene
-- Created Level/Scene Transitions
-- Created and programmed the cutscenes
+- Implemented and designed the UI for the game (HUD, Menus, level/scene transitions, etc.)
+- Developed an inventory management system tailored specifically for game environment.
+- Edited and programmed cutscenes and animations for the enemies.
+- Added and edited sound effects and background music through sound classes and mixers.
+- Integrated a robust save system to enhance the user’s gaming experience.
 
 To keep updated with the latest of the development in the game, you can follow the Just a Simple Farming Game page on itch.io.
 https://goldengoblins.itch.io/just-a-simple-farming-game
